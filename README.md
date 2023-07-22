@@ -3,7 +3,10 @@
 
 ![My LinkedIn Banner](https://github.com/zul132/zul132/assets/98112914/5ced1e03-3c16-4078-a861-a3b98155835f)
 
-
+<!-- | Projects | Stars | Forks |
+| :--- | :---: | ---: |
+| row1 col1 | row1 col2 | row1 col3 | -->
+  
 <!--
 **zul132/zul132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
