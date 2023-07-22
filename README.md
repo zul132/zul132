@@ -1,5 +1,5 @@
-### Hi there! My name is
-## Fathima Zulaikha👋
+### Hi there👋 My name is
+## Fathima Zulaikha ✨ 
 <!--
 **zul132/zul132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
