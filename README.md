@@ -1,7 +1,8 @@
 ### Hi there👋 My name is
 ## Fathima Zulaikha ✨ 
 
-![Fathima's Banner](C:\Users\Fathima Zulaikha\OneDrive\Pictures\My LinkedIn Banner (1).png)
+![My LinkedIn Banner](https://github.com/zul132/zul132/assets/98112914/5ced1e03-3c16-4078-a861-a3b98155835f)
+
 
 <!--
 **zul132/zul132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
