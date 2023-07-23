@@ -61,18 +61,19 @@
 <div align="left">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<!-- <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
 </div>
 
 
 ## Stats 📊
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zul132" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zul132&layout=compact&langs_count=5&card_width=320" />
-</a>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zul132&show_icons=true" alt="zulaikha_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zul132&layout=compact" alt="zul132_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zul132&" alt="fathima_stats"/>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zul132" alt="zul132 Profile visits" /></p>
+
 
 
 
