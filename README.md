@@ -14,6 +14,23 @@
 
 🤝 I’m looking to collaborate on Web Based Projects
 
+## Connect with me 📮
+<div align="center">
+ <a href="www.linkedin.com/in/fathima-zulaikha-2741a4217" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://github.com/zul132" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=zul132 GitHub style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:fathimazulaikha.25cs@licet.ac.in" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=fathimazulaikha.25cs@licet.ac.in mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/fathimazulaikha/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Spyware007 Instagram style="margin-bottom: 5px;" />
+</a>
 
 ## Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
