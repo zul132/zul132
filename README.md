@@ -23,4 +23,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zul132&layout=compact&langs_count=5&card_width=320" />
 </a>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
