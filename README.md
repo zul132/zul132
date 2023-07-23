@@ -1,23 +1,17 @@
-### Hi there👋 My name is
-## Fathima Zulaikha ✨ 
+## Hi there 👋 My name is
+# Fathima Zulaikha ✨ 
 
 ![My LinkedIn Banner](https://github.com/zul132/zul132/assets/98112914/5ced1e03-3c16-4078-a861-a3b98155835f)
 
-<!-- | Projects | Stars | Forks |
-| :--- | :---: | ---: |
-| row1 col1 | row1 col2 | row1 col3 | -->
-  
-<!--
-**zul132/zul132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🪶 I am **Fathima Zulaikha** a 3rd year CSE student at Loyola-ICAM College of Engineering and Technology, Chennai.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on *Full Stack/Cloud Application Development Projects*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Frontend with React, web animations and IBM cloud
+
+🏫 Want to Learn MERN Stack, Flutter and Google Cloud
+
+🤝 I’m looking to collaborate on Web Based Projects
+
+
