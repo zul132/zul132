@@ -6,7 +6,7 @@
 ## About Me
 🪶 I am **Fathima Zulaikha** a 3rd year CSE student at Loyola-ICAM College of Engineering and Technology, Chennai.
 
-🔭 I’m currently working on *Full Stack/Cloud Application Development Projects*
+🔭 I’m currently working on *Full Stack/Cloud Application Development* Projects
 
 🌱 Currently learning Frontend with React, web animations and IBM cloud
 
