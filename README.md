@@ -11,7 +11,7 @@
 
 🌱 Currently learning Frontend with React, web animations and IBM cloud
 
-🏫 I want to Learn MERN Stack, Flutter and Google Cloud
+🏫 I want to Learn MERN Stack and Flutter 
 
 🤝 I’m looking to collaborate on Web Based Projects
 
