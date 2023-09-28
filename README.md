@@ -72,7 +72,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zul132&layout=compact" alt="zul132_stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zul132&" alt="fathima_stats"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zul132" alt="zul132 Profile visits" /></p>
+
 
 
 
