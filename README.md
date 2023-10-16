@@ -13,7 +13,7 @@
 
 🏫 I want to Learn MERN Stack and Flutter 
 
-🤝 I’m looking to collaborate on Web Based Projects
+🤝 I’m looking to collaborate on Data Science, AIML, Web Dev Projects
 
 ## Connect with me 📮
 
