@@ -9,11 +9,11 @@
 
 🔭 I’m currently working on *Full Stack/Cloud Application Development* Projects
 
-🌱 Currently learning Frontend with React, web animations and IBM cloud
+🌱 Currently learning React, Azure and GCP
 
-🏫 I want to Learn MERN Stack and Flutter 
+🏫 I want to Learn MERN Stack and NextJS 
 
-🤝 I’m looking to collaborate on Data Science, AIML, Web Dev Projects
+🤝 I’m looking to collaborate on AI, Cloud and Web Development projects
 
 ## Connect with me 📮
 
