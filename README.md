@@ -74,6 +74,14 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zul132&" alt="fathima_stats"/>
 </p>
 
+## Open Source Programs
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC Badge" style="width: 230px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC Mentee Badge" style="width: 230px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC Contributor" style="width: 230px; max-width: 100%;">
+</div>
+
+
 
 
 
