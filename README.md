@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on *Full Stack/Cloud Application Development* Projects.
 
-🌱 Currently learning Django, React, and Azure.
+🌱 Currently learning Django, Google Cloud, and Azure.
 
 🏫 I want to Learn MERN Stack and NextJS. 
 
@@ -52,7 +52,7 @@
 ## Frameworks and Libraries 🚀
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23563D7C.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
+<img alt="Django" src="https://img.shields.io/badge/django-%23563D7C.svg?style=for-the-badge&logo=django&logoColor=white"/> 
 <img alt="Spring Boot" src="https://img.shields.io/badge/springboot-%230769AD.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 </div> 
