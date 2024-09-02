@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=fathimazulaikha.25cs@licet.ac.in mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/fathimazulaikha/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Spyware007 Instagram style="margin-bottom: 5px;" />
+<a href="https://www.youtube.com/@artemisqueen2003">
+<img src=https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white alt=Spyware007 YouTube style="margin-bottom: 5px;" />
 </a>
 </div>
 
