@@ -65,6 +65,14 @@
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
+## Tools and Technologies 🛠️
+<div align="left">
+<img alt="Ansible" src="https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-%23FF5733.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/Red_Hat_Enterprise_Linux-%23000000.svg?style=for-the-badge&logo=redhat&logoColor=red"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23563D7C.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%230A73E0.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/> 
+</div>
 
 ## Stats 📊
 
@@ -76,9 +84,10 @@
 
 ## Open Source Programs
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC Badge" style="width: 230px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC Mentee Badge" style="width: 230px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC Contributor" style="width: 230px; max-width: 100%;">
+    <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 220px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 230px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC 2024 Mentee Badge" style="width: 230px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC 2023 Contributors Badge" style="width: 230px; max-width: 100%;">
 </div>
 
 
