@@ -9,9 +9,9 @@
 
 🔭 I’m currently working on *Full Stack/Cloud Application Development* Projects.
 
-🌱 Currently learning Django, Google Cloud, and Azure.
+🌱 Currently learning MongoDB, ExpressJS, and Google Cloud.
 
-🏫 I want to Learn MERN Stack and NextJS. 
+🏫 I want to Learn Django and and MERN stack. 
 
 🤝 I’m looking to collaborate on AI/ML and Web Development projects.
 
@@ -38,7 +38,8 @@
 <!-- ![code](https://github.com/zul132/zul132/assets/98112914/7d43b65b-b009-4bf2-b3b2-f685e71d2b04) -->
 
 
-## Programming Languages  <img src="https://github.com/zul132/zul132/assets/98112914/0a2b74f8-5ffe-4d71-b428-2f7cda9d9333" height="23px">
+## Tech Stack
+### Programming Languages  <img src="https://github.com/zul132/zul132/assets/98112914/0a2b74f8-5ffe-4d71-b428-2f7cda9d9333" height="21px">
 
 <div align="left">
 <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white"/>
@@ -49,7 +50,7 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 </div>
 
-## Frameworks and Libraries 🚀
+### Frameworks and Libraries 🚀
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23563D7C.svg?style=for-the-badge&logo=django&logoColor=white"/> 
@@ -57,21 +58,40 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 </div> 
 
-## Databases  <img src="https://github.com/zul132/zul132/assets/98112914/9cebd252-8aa6-4d18-8686-bd773b5e4986" height="28px"> 
+### Databases  <img src="https://github.com/zul132/zul132/assets/98112914/9cebd252-8aa6-4d18-8686-bd773b5e4986" height="21px"> 
 <div align="left">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23563D7C.svg?style=for-the-badge&logo=firebase&logoColor=white"/> 
+<img alt="Cloud Firestore" src="https://img.shields.io/badge/firestore-%23FFCA28.svg?style=for-the-badge&logo=firestore&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-## Tools and Technologies 🛠️
+### Tools and Technologies 🛠️
 <div align="left">
 <img alt="Ansible" src="https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-%23FF5733.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/Red_Hat_Enterprise_Linux-%23000000.svg?style=for-the-badge&logo=redhat&logoColor=red"/>
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23563D7C.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
+<img alt="Git" src="https://img.shields.io/badge/Git-%23FF5733.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C2D72.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%230A73E0.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/> 
+</div>
+<br>
+
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 20px;' align='center'>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="115px" height="115px" />
+  <img src="https://github.com/user-attachments/assets/062c92ec-9e6c-416f-bced-3be96ed36de8" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/472321f5-475c-464c-a9ff-4a9fea754733" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/9a59a7db-7786-49cc-8373-746b961bbe02" width="120px" height="110px" />
+</div>
+
+## Open Source Programs
+<div style='display:flex; align-items:center; gap: 20px;' align='center'>
+    <img src="https://github.com/user-attachments/assets/7e45677c-c831-4e03-ba1f-34701ff702ef" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
+    <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 150px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 150px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC 2024 Mentee Badge" style="width: 150px; max-width: 100%;">
+    <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC 2023 Contributors Badge" style="width: 200px; max-width: 100%;">
 </div>
 
 ## Stats 📊
@@ -82,13 +102,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zul132&" alt="fathima_stats"/>
 </p>
 
-## Open Source Programs
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 220px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 230px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC 2024 Mentee Badge" style="width: 230px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC 2023 Contributors Badge" style="width: 230px; max-width: 100%;">
-</div>
+
 
 
 
