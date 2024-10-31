@@ -15,8 +15,8 @@
 
 🤝 I’m looking to collaborate on AI/ML and Web Development projects.
 
-## Let's Connect 📮
-
+<details>	
+ <summary><h2>Let's Connect 📮</h2></summary>
 <div align="center">
  <a href="https://www.linkedin.com/in/fathima-zulaikha-2741a4217/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
@@ -34,6 +34,7 @@
 <img src=https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white alt=Spyware007 YouTube style="margin-bottom: 5px;" />
 </a>
 </div>
+</details>
 
 <!-- ![code](https://github.com/zul132/zul132/assets/98112914/7d43b65b-b009-4bf2-b3b2-f685e71d2b04) -->
 
@@ -77,22 +78,40 @@
 </div>
 <br>
 
-## Certification Badges 🪶
+<details>	
+<summary><h2>Certification Badges 🪶</h2></summary>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="115px" height="115px" />
+  <img src="https://github.com/user-attachments/assets/5ef349d4-facb-46cf-becf-46a600ef6fe8" width="115px" height="115px" />
   <img src="https://github.com/user-attachments/assets/062c92ec-9e6c-416f-bced-3be96ed36de8" width="125px" height="125px" />
   <img src="https://github.com/user-attachments/assets/472321f5-475c-464c-a9ff-4a9fea754733" width="125px" height="125px" />
   <img src="https://github.com/user-attachments/assets/9a59a7db-7786-49cc-8373-746b961bbe02" width="120px" height="110px" />
 </div>
+</details>
 
-## Open Source Programs
-<div style='display:flex; align-items:center; gap: 20px;' align='center'>
+<details>	
+ <summary><h2>Open Source Programs</h2></summary>
+ <br>
+ <div style='display:flex; align-items:center; gap: 20px;' align='center'>
     <img src="https://github.com/user-attachments/assets/7e45677c-c831-4e03-ba1f-34701ff702ef" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
     <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 150px; max-width: 100%;">
     <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 150px; max-width: 100%;">
     <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC 2024 Mentee Badge" style="width: 150px; max-width: 100%;">
     <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC 2023 Contributors Badge" style="width: 200px; max-width: 100%;">
 </div>
+
+### GSSOC(24) Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=zul132">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  </a>
+</div>
+</details>
+
 
 ## Stats 📊
 
