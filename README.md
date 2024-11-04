@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=fathimazulaikha.25cs@licet.ac.in mail style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://linktr.ee/Fathima_Zulaikha" target="_blank">
+<img src="https://img.shields.io/badge/Linktree-%23000000.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://www.youtube.com/@artemisqueen2003">
 <img src=https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white alt=Spyware007 YouTube style="margin-bottom: 5px;" />
 </a>
@@ -55,8 +59,9 @@
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23563D7C.svg?style=for-the-badge&logo=django&logoColor=white"/> 
-<img alt="Spring Boot" src="https://img.shields.io/badge/springboot-%230769AD.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
 </div> 
 
 ### Databases  <img src="https://github.com/zul132/zul132/assets/98112914/9cebd252-8aa6-4d18-8686-bd773b5e4986" height="21px"> 
@@ -73,6 +78,7 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/Red_Hat_Enterprise_Linux-%23000000.svg?style=for-the-badge&logo=redhat&logoColor=red"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-%23FF5733.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C2D72.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%230A73E0.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/> 
 </div>
@@ -92,11 +98,19 @@
  <summary><h2>Open Source Programs</h2></summary>
  <br>
  <div style='display:flex; align-items:center; gap: 20px;' align='center'>
-    <img src="https://github.com/user-attachments/assets/7e45677c-c831-4e03-ba1f-34701ff702ef" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
-    <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 150px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 150px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC 2024 Mentee Badge" style="width: 150px; max-width: 100%;">
-    <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC 2023 Contributors Badge" style="width: 200px; max-width: 100%;">
+  <a href="https://www.holopin.io/@zul132#badges">
+     <img src="https://github.com/user-attachments/assets/619b57c1-2da1-448d-8cda-24d1aac3ccf6" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=zul132">
+     <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 150px; max-width: 100%;">
+  </a>
+     <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 150px; max-width: 100%;">
+  <a href="https://leaderboard.jwoc.tech/">
+     <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC 2024 Mentee Badge" style="width: 150px; max-width: 100%;">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2023&username=zul132">
+     <img src="https://github.com/zul132/zul132/assets/98112914/dd297d2e-2491-45b2-a4af-6da32c13a09b" alt="GSSoC 2023 Contributors Badge" style="width: 200px; max-width: 100%;">
+  </a>
 </div>
 
 ### GSSOC(24) Badges 
