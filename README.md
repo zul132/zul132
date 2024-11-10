@@ -99,7 +99,7 @@
  <br>
  <div style='display:flex; align-items:center; gap: 20px;' align='center'>
   <a href="https://www.holopin.io/@zul132#badges">
-     <img src="https://github.com/user-attachments/assets/619b57c1-2da1-448d-8cda-24d1aac3ccf6" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
+     <img src="https://github.com/user-attachments/assets/90ac05c0-894d-451b-a6c8-7b18f2088efd" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
   </a>
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=zul132">
      <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 150px; max-width: 100%;">
@@ -123,6 +123,10 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </a>
+</div>
+<div style='display:flex; align-items:center; gap: 20px;' align='center'>
+ <img src="https://github.com/user-attachments/assets/15aa85e2-f158-49b8-844c-3cce9a7ba835" style="width: 150px; max-width: 100%;">
+ <img src="https://github.com/user-attachments/assets/929a0519-b204-45df-b6e2-6284c810cbeb" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
 </div>
 </details>
 
