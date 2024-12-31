@@ -1,11 +1,12 @@
 ## Hi there 👋 My name is
 # Fathima Zulaikha ✨ 
 
-![My LinkedIn Banner](https://github.com/zul132/zul132/assets/98112914/5ced1e03-3c16-4078-a861-a3b98155835f)
+![New LinkedIn Banner](https://github.com/user-attachments/assets/a69f4b84-8311-4e6d-9b06-9a87f96b9bde)
+
 
 ## About Me
 
-🪶 I am **Fathima Zulaikha** a final year CSE student at Loyola-ICAM College of Engineering and Technology, Chennai.
+🪶 I am **Fathima Zulaikha** a final-year CSE student at Loyola-ICAM College of Engineering and Technology, Chennai.
 
 🔭 I’m currently working on *Full Stack/Cloud Application Development* Projects.
 
@@ -98,13 +99,14 @@
  <summary><h2>Open Source Programs</h2></summary>
  <br>
  <div style='display:flex; align-items:center; gap: 20px;' align='center'>
+  <img src="https://github.com/user-attachments/assets/95c9e724-46d1-4ad0-8284-e313fdc050c5" alt="SWOC 2025 Badge" style="width: 150px; max-width: 100%;">
   <a href="https://www.holopin.io/@zul132#badges">
      <img src="https://github.com/user-attachments/assets/90ac05c0-894d-451b-a6c8-7b18f2088efd" alt="Hacktoberfest 2024 Badge" style="width: 150px; max-width: 100%;">
   </a>
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=zul132">
      <img src="https://github.com/user-attachments/assets/8746116d-29bf-49b6-a572-cdca8849e2cd" alt="GSSoC 2024 Extd Badge" style="width: 150px; max-width: 100%;">
   </a>
-     <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 150px; max-width: 100%;">
+  <img src="https://github.com/zul132/zul132/assets/98112914/14001c7d-9d7c-4e60-88be-2ca95d971c1b" alt="SSOC 2024 Badge" style="width: 150px; max-width: 100%;">
   <a href="https://leaderboard.jwoc.tech/">
      <img src="https://github.com/zul132/zul132/assets/98112914/ee1ae059-bf90-437b-bec6-13a59a21389b" alt="JWoC 2024 Mentee Badge" style="width: 150px; max-width: 100%;">
   </a>
