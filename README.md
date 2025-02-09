@@ -8,14 +8,20 @@
 
 🪶 I am **Fathima Zulaikha** a final-year CSE student at Loyola-ICAM College of Engineering and Technology, Chennai.
 
-🔭 I’m currently working on *Full Stack/Cloud Application Development* Projects.
-
-🌱 Currently learning MongoDB, ExpressJS, and Google Cloud.
+🌱 Currently learning React, ExpressJS, and Google Cloud.
 
 🏫 I want to Learn Django and and MERN stack. 
 
 🤝 I’m looking to collaborate on AI/ML and Web Development projects.
 
+## I'm Currently Working On
+
+1. **Mithra Voice Chatbot**:  
+   I am developing **Mithra**, an **AI-powered multilingual chatbot and voice assistant** for **Chennai Metro Rail Limited (CMRL)** as both my _intern project_ and _final-year engineering project_. **Mithra** is designed to _automate ticket booking_ and provide _real-time passenger assistance_ in **English, Tamil and Hindi**. It is powered by **Natural Language Processing (NLP)** and **Generative AI**, leveraging **Google’s Gemini API** to offer a seamless and accurate experience. **Mithra** helps passengers _navigate metro stations, find routes, and book tickets using voice commands_, enhancing overall travel convenience.
+
+2. **Personal Portfolio Website**:  
+   I am also building my very own **developer portfolio**, a _fully responsive_ website designed using **React** to showcase my **skills, projects, and experiences**. It features _support for both dark and light modes_, ensuring a modern and accessible user experience. The portfolio is **deployed on Vercel** and is continuously evolving as I continue my **tech journey**, keeping my projects and skills updated.  
+   
 <details>	
  <summary><h2>Let's Connect 📮</h2></summary>
 <div align="center">
@@ -59,10 +65,11 @@
 ### Frameworks and Libraries 🚀
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23563D7C.svg?style=for-the-badge&logo=django&logoColor=white"/> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23563D7C.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/django-%23563D7C.svg?style=for-the-badge&logo=django&logoColor=white"/> 
 </div> 
 
 ### Databases  <img src="https://github.com/zul132/zul132/assets/98112914/9cebd252-8aa6-4d18-8686-bd773b5e4986" height="21px"> 
