@@ -14,6 +14,8 @@
 
 🤝 I’m looking to collaborate on AI/ML and Web Development projects.
 
+🔓 I love contributing to open source projects and have got 15+ PRs merged under various programs including JWoC, GSSoC, SSOC and Hacktoberfest.
+
 ## I'm Currently Working On
 
 1. **Mithra Voice Chatbot**:  
