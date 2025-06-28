@@ -1,8 +1,10 @@
-## Hi there 👋 My name is
-# Fathima Zulaikha ✨ 
+<h1>Hi there 👋</h1>
+<div align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&size=40&color=000000&center=true&vCenter=true&width=800&height=70&duration=4000&lines=My+name+is+Fathima+Zulaikha!;+Welcome+to+my+GitHub+Profile!;" />
 
-![New LinkedIn Banner](https://github.com/user-attachments/assets/a69f4b84-8311-4e6d-9b06-9a87f96b9bde)
-
+   ### Full-Stack Dev | AI & Machine Learning | Data Science | Gen AI | NLP & LLMs | Agentic AI
+   
+</div>
 
 ## About Me
 
@@ -15,14 +17,6 @@
 🤝 I’m looking to collaborate on AI/ML and Web Development projects.
 
 🔓 I love contributing to open source projects and have got 15+ PRs merged under various programs including JWoC, GSSoC, SSOC and Hacktoberfest.
-
-## I'm Currently Working On
-
-1. **Mithra Voice Chatbot**:  
-   I am developing **Mithra**, an **AI-powered multilingual chatbot and voice assistant** for **Chennai Metro Rail Limited (CMRL)** as both my _intern project_ and _final-year engineering project_. **Mithra** is designed to _automate ticket booking_ and provide _real-time passenger assistance_ in **English, Tamil and Hindi**. It is powered by **Natural Language Processing (NLP)** and **Generative AI**, leveraging **Google’s Gemini API** to offer a seamless and accurate experience. **Mithra** helps passengers _navigate metro stations, find routes, and book tickets using voice commands_, enhancing overall travel convenience.
-
-2. **Personal Portfolio Website**:  
-   I am also building my very own **developer portfolio**, a _fully responsive_ website designed using **React** to showcase my **skills, projects, and experiences**. It features _support for both dark and light modes_, ensuring a modern and accessible user experience. The portfolio is **deployed on Vercel** and is continuously evolving as I continue my **tech journey**, keeping my projects and skills updated.  
    
 <details>	
  <summary><h2>Let's Connect 📮</h2></summary>
@@ -53,7 +47,7 @@
 
 
 ## Tech Stack
-### Programming Languages  <img src="https://github.com/zul132/zul132/assets/98112914/0a2b74f8-5ffe-4d71-b428-2f7cda9d9333" height="21px">
+### Programming Languages & Databases <img src="https://github.com/zul132/zul132/assets/98112914/0a2b74f8-5ffe-4d71-b428-2f7cda9d9333" height="21px">
 
 <div align="left">
 <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white"/>
@@ -61,26 +55,22 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Firestore" src="https://img.shields.io/badge/Cloud%20Firestore-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
 ### Frameworks and Libraries 🚀
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23563D7C.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23563D7C.svg?style=for-the-badge&logo=django&logoColor=white"/> 
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div> 
-
-### Databases  <img src="https://github.com/zul132/zul132/assets/98112914/9cebd252-8aa6-4d18-8686-bd773b5e4986" height="21px"> 
-<div align="left">
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Cloud Firestore" src="https://img.shields.io/badge/firestore-%23FFCA28.svg?style=for-the-badge&logo=firestore&logoColor=white"/>
-<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
 
 ### Tools and Technologies 🛠️
 <div align="left">
@@ -90,7 +80,7 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-%23FF5733.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C2D72.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%230A73E0.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/> 
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </div>
 <br>
 
