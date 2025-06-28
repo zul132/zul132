@@ -45,6 +45,16 @@
 
 <!-- ![code](https://github.com/zul132/zul132/assets/98112914/7d43b65b-b009-4bf2-b3b2-f685e71d2b04) -->
 
+<details>	
+<summary><h2>Professional Certifications 🪶</h2></summary>
+<div style='display:flex; align-items:center; gap: 20px;' align='center'>
+  <img src="https://github.com/user-attachments/assets/317bad4a-8e65-4c95-a8bc-3931a1e98c07" width="115px" height="115px" />
+  <img src="https://github.com/user-attachments/assets/5ef349d4-facb-46cf-becf-46a600ef6fe8" width="115px" height="115px" />
+  <img src="https://github.com/user-attachments/assets/062c92ec-9e6c-416f-bced-3be96ed36de8" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/472321f5-475c-464c-a9ff-4a9fea754733" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/9a59a7db-7786-49cc-8373-746b961bbe02" width="120px" height="110px" />
+</div>
+</details>
 
 ## Tech Stack
 ### Programming Languages & Databases <img src="https://github.com/zul132/zul132/assets/98112914/0a2b74f8-5ffe-4d71-b428-2f7cda9d9333" height="21px">
@@ -74,25 +84,19 @@
 
 ### Tools and Technologies 🛠️
 <div align="left">
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-%23FF5733.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Ansible" src="https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/Red_Hat_Enterprise_Linux-%23000000.svg?style=for-the-badge&logo=redhat&logoColor=red"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-%23FF5733.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C2D72.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
-<img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logoColor=white"/>
 </div>
 <br>
-
-<details>	
-<summary><h2>Certification Badges 🪶</h2></summary>
-<div style='display:flex; align-items:center; gap: 20px;' align='center'>
-  <img src="https://github.com/user-attachments/assets/5ef349d4-facb-46cf-becf-46a600ef6fe8" width="115px" height="115px" />
-  <img src="https://github.com/user-attachments/assets/062c92ec-9e6c-416f-bced-3be96ed36de8" width="125px" height="125px" />
-  <img src="https://github.com/user-attachments/assets/472321f5-475c-464c-a9ff-4a9fea754733" width="125px" height="125px" />
-  <img src="https://github.com/user-attachments/assets/9a59a7db-7786-49cc-8373-746b961bbe02" width="120px" height="110px" />
-</div>
-</details>
 
 <details>	
  <summary><h2>Open Source Programs</h2></summary>
