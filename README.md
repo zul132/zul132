@@ -45,8 +45,7 @@
 
 <!-- ![code](https://github.com/zul132/zul132/assets/98112914/7d43b65b-b009-4bf2-b3b2-f685e71d2b04) -->
 
-<details>	
-<summary><h2>Professional Certifications 🪶</h2></summary>
+## Certifications 🪶
 <div style='display:flex; align-items:center; gap: 20px;' align='center'>
   <img src="https://github.com/user-attachments/assets/317bad4a-8e65-4c95-a8bc-3931a1e98c07" width="115px" height="115px" />
   <img src="https://github.com/user-attachments/assets/5ef349d4-facb-46cf-becf-46a600ef6fe8" width="115px" height="115px" />
@@ -54,10 +53,9 @@
   <img src="https://github.com/user-attachments/assets/472321f5-475c-464c-a9ff-4a9fea754733" width="125px" height="125px" />
   <img src="https://github.com/user-attachments/assets/9a59a7db-7786-49cc-8373-746b961bbe02" width="120px" height="110px" />
 </div>
-</details>
 
-## Tech Stack
-### Programming Languages & Databases <img src="https://github.com/zul132/zul132/assets/98112914/0a2b74f8-5ffe-4d71-b428-2f7cda9d9333" height="21px">
+## Tech Stack 🚀
+### Programming Languages & Databases 
 
 <div align="left">
 <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white"/>
@@ -72,17 +70,18 @@
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-### Frameworks and Libraries 🚀
+### Full-Stack Frameworks & Technologies 
 <div align="left">
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
+<img alt="Meterial UI (MUI)" src="https://img.shields.io/badge/Material_UI-1E90FF?style=for-the-badge&logo=mui&logoColor=white"/> 
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div> 
 
-### Tools and Technologies 🛠️
+### Tools & Platforms 
 <div align="left">
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -95,6 +94,29 @@
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C2D72.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logoColor=white"/>
+</div>
+
+### Data Science & Machine/Deep Learning 
+<div align="left">
+<img alt="Classification" src="https://img.shields.io/badge/Classification-228B22?style=for-the-badge"/>
+<img alt="Regression" src="https://img.shields.io/badge/Regression-CD4A3D?style=for-the-badge"/>
+<img alt="Clustering" src="https://img.shields.io/badge/Clustering-FCC624?style=for-the-badge"/>
+<img alt="Neural Network" src="https://img.shields.io/badge/Neural_Networks-1E90FF?style=for-the-badge"/>
+<img alt="CNN" src="https://img.shields.io/badge/Convolutional_Neural_Networks_(CNN)-556B2F?style=for-the-badge"/>
+<img alt="NLP" src="https://img.shields.io/badge/Natural_Language_Processing_(NLP)-800080?style=for-the-badge"/>
+</div>
+
+### Generative AI & AI Agents
+<div align="left">
+<img alt="Large Language Models" src="https://img.shields.io/badge/Large_Language_Models_(LLMs)-1E90FF?style=for-the-badge"/>
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=for-the-badge"/>
+<img alt="Retrieval Augmented Generation (RAG)" src="https://img.shields.io/badge/Retrieval_Augmented_Generation_(RAG)-9400D3?style=for-the-badge"/>
+<img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white"/>
+<img alt="Vertex AI" src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img alt="Gemini API" src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img alt="MCP Toolbox" src="https://img.shields.io/badge/MCP_Toolbox_for_Databases-336699?style=for-the-badge&logo=google&logoColor=white"/>
+<img alt="Agent Development Kit" src="https://img.shields.io/badge/Agent_Development_Kit_(ADK)-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 <br>
 
