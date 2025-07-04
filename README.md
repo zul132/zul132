@@ -8,15 +8,17 @@
 
 ## About Me
 
-🪶 I am **Fathima Zulaikha** a final-year CSE student at Loyola-ICAM College of Engineering and Technology, Chennai.
+🎓 **B.E. Computer Science Engineering 2025 graduate** from Loyola-ICAM College of Engineering and Technology, Anna University.
 
-🌱 Currently learning React, ExpressJS, and Google Cloud.
+💼 Upcoming **Application Developer - Graduate Consultant** at <a href="https://www.thoughtworks.com/">Thoughtworks</a>. 
 
-🏫 I want to Learn Django and and MERN stack. 
+✅ My internship experience spans both deep tech startups like <a href="https://www.linkedin.com/company/tamizh/">TAMIZH</a>, <a href="https://www.vaayusastra.com/">Vaayusastra Aerospace</a> and reputed companies like <a href="https://chennaimetrorail.org/">CMRL</a>, where I've worn multiple hats and contributed to some impactful projects.
 
-🤝 I’m looking to collaborate on AI/ML and Web Development projects.
+🌱 Currently, I am working on my Full-Stack skills (React, SpringBoot). I'm also exploring the exciting world of Generative & Agentic AI. 
 
-🔓 I love contributing to open source projects and have got 15+ PRs merged under various programs including JWoC, GSSoC, SSOC and Hacktoberfest.
+🤝 I’m eager to collaborate on innovative **AI/ML/Data Science/Deep Learning** projects.
+
+💞️ Passionate about Open Source, I've contributed to **10+** GitHub projects with **15+ PRs** merged under various programs including JWoC, GSSoC, and Hacktoberfest.
    
 <details>	
  <summary><h2>Let's Connect 📮</h2></summary>
