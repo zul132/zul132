@@ -49,11 +49,25 @@
 
 ## Certifications 🪶
 <div style='display:flex; align-items:center; gap: 20px;' align='center'>
-  <img src="https://github.com/user-attachments/assets/317bad4a-8e65-4c95-a8bc-3931a1e98c07" width="115px" height="115px" />
-  <img src="https://github.com/user-attachments/assets/5ef349d4-facb-46cf-becf-46a600ef6fe8" width="115px" height="115px" />
-  <img src="https://github.com/user-attachments/assets/062c92ec-9e6c-416f-bced-3be96ed36de8" width="125px" height="125px" />
-  <img src="https://github.com/user-attachments/assets/472321f5-475c-464c-a9ff-4a9fea754733" width="125px" height="125px" />
-  <img src="https://github.com/user-attachments/assets/9a59a7db-7786-49cc-8373-746b961bbe02" width="120px" height="110px" />
+  <a href="https://www.credly.com/badges/cc5883ed-551d-4701-8dc9-bf5f275d18ec/public_url">
+     <img src="https://github.com/user-attachments/assets/b5b2c2ae-cb48-426b-821f-c80d782ad0d1" width="125px" height="125px" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/FathimaZulaikha-8684/B86BE1798EE1887D?sharingId=62A6EB11A8014475">
+     <img src="https://github.com/user-attachments/assets/317bad4a-8e65-4c95-a8bc-3931a1e98c07" width="115px" height="115px" />
+  </a>
+  <a href="https://badgr.com/public/assertions/9CfaBJC7STW8HMZe7wT3Dw">
+     <img src="https://github.com/user-attachments/assets/5ef349d4-facb-46cf-becf-46a600ef6fe8" width="120px" height="120px" />
+  </a>
+  <a href="https://rhtapps.redhat.com/verify?certId=220-213-821">
+     <img src="https://github.com/user-attachments/assets/062c92ec-9e6c-416f-bced-3be96ed36de8" width="125px" height="125px" />
+     <img src="https://github.com/user-attachments/assets/472321f5-475c-464c-a9ff-4a9fea754733" width="125px" height="125px" />
+  </a>
+  <a href="https://www.credly.com/badges/c6fa0092-d74a-454f-a2aa-31cb1618035b/public_url">
+     <img src="https://github.com/user-attachments/assets/7dfcb03f-0215-42ef-b50f-6dc55e647d7b" width="120px" height="120px" />
+  </a>
+  <a href="https://www.credly.com/badges/d4eb56a1-cd35-4ea5-9e87-5bc3ca67d74d/public_url">
+     <img src="https://github.com/user-attachments/assets/9a59a7db-7786-49cc-8373-746b961bbe02" width="120px" height="120px" />
+  </a>
 </div>
 
 ## Tech Stack 🚀
@@ -96,16 +110,21 @@
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C2D72.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logoColor=white"/>
+<img alt="IBM Z/OS" src="https://img.shields.io/badge/IBM_Z/OS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </div>
 
 ### Data Science & Machine/Deep Learning 
 <div align="left">
+<img alt="EDA" src="https://img.shields.io/badge/Exploratory_Data_Analysis_(EDA)-20B2AA?style=for-the-badge"/>
 <img alt="Classification" src="https://img.shields.io/badge/Classification-228B22?style=for-the-badge"/>
 <img alt="Regression" src="https://img.shields.io/badge/Regression-CD4A3D?style=for-the-badge"/>
 <img alt="Clustering" src="https://img.shields.io/badge/Clustering-FCC624?style=for-the-badge"/>
 <img alt="Neural Network" src="https://img.shields.io/badge/Neural_Networks-1E90FF?style=for-the-badge"/>
 <img alt="CNN" src="https://img.shields.io/badge/Convolutional_Neural_Networks_(CNN)-556B2F?style=for-the-badge"/>
 <img alt="NLP" src="https://img.shields.io/badge/Natural_Language_Processing_(NLP)-800080?style=for-the-badge"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img alt="Amazon SageMaker" src="https://img.shields.io/badge/Amazon_SageMaker-6529EF?style=for-the-badge&logo=amazonsagemaker&logoColor=white"/>
 </div>
 
 ### Generative AI & AI Agents
@@ -119,6 +138,7 @@
 <img alt="Gemini API" src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img alt="MCP Toolbox" src="https://img.shields.io/badge/MCP_Toolbox_for_Databases-336699?style=for-the-badge&logo=google&logoColor=white"/>
 <img alt="Agent Development Kit" src="https://img.shields.io/badge/Agent_Development_Kit_(ADK)-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
+<img alt="Amazon PartyRock" src="https://img.shields.io/badge/Amazon_PartyRock-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
 </div>
 <br>
 
