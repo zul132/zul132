@@ -70,7 +70,28 @@
   </a>
 </div>
 
-## Tech Stack 🚀
+<details>	
+ <summary><h2>Coding Profiles 💻</h2></summary>
+<div align="center">
+   <a href="https://leetcode.com/u/zul132/" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+   </a>
+   <a href="https://www.hackerrank.com/fathimazulaikha1" target="_blank">
+     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+   </a>
+   <a href="http://www.skillrack.com/profile/358191/b7f900d5882dd4738bb58c3a9a174d0960ae89cb" target="_blank">
+     <img src="https://img.shields.io/badge/SkillRack-2A94C2?style=for-the-badge&logo=&logoColor=white" />
+   </a>
+   <a href="https://exercism.org/profiles/zul132" target="_blank">
+     <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" />
+   </a>
+   <a href="https://codesignal.com/learn/profile/cmahya9yz00a4l704jellz669" target="_blank">
+     <img src="https://img.shields.io/badge/CodeSignal-3884FF?style=for-the-badge&logo=codesignal&logoColor=white" />
+   </a>
+</div>
+</details>
+
+## Tech Stack 
 ### Programming Languages & Databases 
 
 <div align="left">
@@ -120,7 +141,6 @@
 <img alt="Regression" src="https://img.shields.io/badge/Regression-CD4A3D?style=for-the-badge"/>
 <img alt="Clustering" src="https://img.shields.io/badge/Clustering-FCC624?style=for-the-badge"/>
 <img alt="Neural Network" src="https://img.shields.io/badge/Neural_Networks-1E90FF?style=for-the-badge"/>
-<img alt="CNN" src="https://img.shields.io/badge/Convolutional_Neural_Networks_(CNN)-556B2F?style=for-the-badge"/>
 <img alt="NLP" src="https://img.shields.io/badge/Natural_Language_Processing_(NLP)-800080?style=for-the-badge"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
@@ -136,9 +156,8 @@
 <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img alt="Gemini API" src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img alt="MCP Toolbox" src="https://img.shields.io/badge/MCP_Toolbox_for_Databases-336699?style=for-the-badge&logo=google&logoColor=white"/>
+<img alt="MCP Toolbox" src="https://img.shields.io/badge/MCP_Toolbox-336699?style=for-the-badge&logo=google&logoColor=white"/>
 <img alt="Agent Development Kit" src="https://img.shields.io/badge/Agent_Development_Kit_(ADK)-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
-<img alt="Amazon PartyRock" src="https://img.shields.io/badge/Amazon_PartyRock-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
 </div>
 <br>
 
